@@ -4,9 +4,9 @@ Estudiante de Ingeniería en Sistemas de Información apasionado por el Análisi
 
 🛠️ Tecnologías y Herramientas
 
-Lenguajes: Python, SQL
-Análisis y Visualización: Power BI
-Bases de Datos & Herramientas: MySQL Server, GitHub
+*Lenguajes: Python, SQL
+*Análisis y Visualización: Power BI
+*Bases de Datos & Herramientas: MySQL Server, GitHub
 
 ---
 📂 Proyectos de Análisis de Datos
